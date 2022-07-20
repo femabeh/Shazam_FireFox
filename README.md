@@ -10,7 +10,7 @@ Das Frontend ist soweit Fertig, hilfe ist vor allem beim Backend benötigt.
 
 API Seite: https://rapidapi.com/apidojo/api/shazam/tutorials/how-to-use-...%2Fsongs%2Fdetect-endpoint
 
-Discord: femabeh#8021
+Discord: http://discord.com/users/461964892920872968
 
 Email: femabeh@gmail.com
 
